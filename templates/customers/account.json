@@ -1,10 +1,39 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
-      "type": "main-account"
+      "type": "main-account",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1741612853bcdebbf9": {
+      "type": "apps",
+      "blocks": {
+        "voyado_engage_app_block_nRh4Ue": {
+          "type": "shopify://apps/voyado-engage/blocks/app-block/9f3c149b-0e4b-43b7-8c5e-82a72b712a66",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "voyado_engage_app_block_nRh4Ue"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1741612853bcdebbf9"
   ]
 }
