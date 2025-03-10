@@ -145,6 +145,11 @@
         "type": "shopify://apps/depict/blocks/depict_head/ad5c7d1f-ddfb-424b-b936-7f08c4544f6b",
         "disabled": false,
         "settings": {}
+      },
+      "7033502922307866716": {
+        "type": "shopify://apps/voyado-engage/blocks/app-embed/9f3c149b-0e4b-43b7-8c5e-82a72b712a66",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
