@@ -153,12 +153,10 @@
         "disabled": false,
         "settings": {}
       },
-      "6933373160360723723": {
-        "type": "shopify://apps/swishlist-simple-wishlist/blocks/wishlist_settings/bfcb80f2-f00d-42ae-909a-9f00c726327b",
+      "6091580277106134563": {
+        "type": "shopify://apps/discount-depot/blocks/embeded_product_discount/a6a1cffd-79d9-44d8-8e7a-94438b99a5db",
         "disabled": false,
-        "settings": {
-          "custom_css": ""
-        }
+        "settings": {}
       }
     },
     "color_schemes": {
