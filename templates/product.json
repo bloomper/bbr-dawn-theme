@@ -30,6 +30,12 @@
             "text_style": "subtitle"
           }
         },
+        "discount_depot_product_discount_7zRYEw": {
+          "type": "shopify://apps/discount-depot/blocks/product_discount/a6a1cffd-79d9-44d8-8e7a-94438b99a5db",
+          "settings": {
+            "discounted_price_css": "."
+          }
+        },
         "price": {
           "type": "price",
           "settings": {}
@@ -50,12 +56,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
-          }
-        },
-        "swishlist_simple_wishlist_wishlist_product_button_TYD9K7": {
-          "type": "shopify://apps/swishlist-simple-wishlist/blocks/wishlist_product_button/bfcb80f2-f00d-42ae-909a-9f00c726327b",
-          "settings": {
-            "custom_liquid": ""
           }
         },
         "description": {
@@ -109,11 +109,11 @@
         "vendor",
         "title",
         "caption",
+        "discount_depot_product_discount_7zRYEw",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "swishlist_simple_wishlist_wishlist_product_button_TYD9K7",
         "description",
         "collapsible-row-0",
         "collapsible-row-1",
