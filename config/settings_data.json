@@ -157,6 +157,11 @@
         "type": "shopify://apps/discount-depot/blocks/embeded_product_discount/a6a1cffd-79d9-44d8-8e7a-94438b99a5db",
         "disabled": false,
         "settings": {}
+      },
+      "12691944026889484271": {
+        "type": "shopify://apps/snapb2b/blocks/snap-b2b/4873aea5-77bc-44a0-badb-f9cfb804db54",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
